@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidRectangle", "SolidRectangle\SolidRectangle.csproj", "{50C402B2-9E2B-400F-B926-ACD358D6BB65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HollowRectangle", "HollowRectangle\HollowRectangle.csproj", "{250B5F88-37C8-4349-B9B0-60F6AAA68822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfPyramid", "HalfPyramid\HalfPyramid.csproj", "{4DC72B45-2E09-4ED1-8AAA-E1BA7E4B9DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertedHalfPyramid", "InvertedHalfPyramid\InvertedHalfPyramid.csproj", "{EAF0E8E9-92AD-4896-82AD-46D44D1A5B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HollowInvertedHalfPyramid", "HollowInvertedHalfPyramid\HollowInvertedHalfPyramid.csproj", "{8E1C5A27-226A-46DF-AD2D-09D8B29366F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HollowHalfPyramid", "HollowHalfPyramid\HollowHalfPyramid.csproj", "{94A3CA6B-39B2-4860-879D-FFC0560AAAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C402B2-9E2B-400F-B926-ACD358D6BB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C402B2-9E2B-400F-B926-ACD358D6BB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C402B2-9E2B-400F-B926-ACD358D6BB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C402B2-9E2B-400F-B926-ACD358D6BB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250B5F88-37C8-4349-B9B0-60F6AAA68822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250B5F88-37C8-4349-B9B0-60F6AAA68822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250B5F88-37C8-4349-B9B0-60F6AAA68822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250B5F88-37C8-4349-B9B0-60F6AAA68822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC72B45-2E09-4ED1-8AAA-E1BA7E4B9DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC72B45-2E09-4ED1-8AAA-E1BA7E4B9DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC72B45-2E09-4ED1-8AAA-E1BA7E4B9DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC72B45-2E09-4ED1-8AAA-E1BA7E4B9DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF0E8E9-92AD-4896-82AD-46D44D1A5B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF0E8E9-92AD-4896-82AD-46D44D1A5B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF0E8E9-92AD-4896-82AD-46D44D1A5B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF0E8E9-92AD-4896-82AD-46D44D1A5B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1C5A27-226A-46DF-AD2D-09D8B29366F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1C5A27-226A-46DF-AD2D-09D8B29366F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1C5A27-226A-46DF-AD2D-09D8B29366F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1C5A27-226A-46DF-AD2D-09D8B29366F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A3CA6B-39B2-4860-879D-FFC0560AAAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A3CA6B-39B2-4860-879D-FFC0560AAAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A3CA6B-39B2-4860-879D-FFC0560AAAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A3CA6B-39B2-4860-879D-FFC0560AAAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E199623A-21FB-4E34-B176-CBDAB4B4C951}
+	EndGlobalSection
+EndGlobal
